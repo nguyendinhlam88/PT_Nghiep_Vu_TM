@@ -1,0 +1,15 @@
+comedy
+sci-fi
+horror
+romance
+action
+thriller
+drama
+mystery
+crime
+animation
+adventure
+fantasy
+comedy-romance
+action-comedy
+superhero
