@@ -1,5 +1,7 @@
 import scrapy
 import os
+import uuid
+from datetime import datetime
 
 os.chdir(os.getcwd())
 
@@ -33,6 +35,9 @@ class ImdbSpider(scrapy.Spider):
 
     def parse_movie(self, response):
         item = IMDBItem()
+        item['id'] = uuid.uuid4()
+        item['url'] = response.url
+        item['created_date'] = datetime.now()
         item['title'] = response.xpath(
             '//h1[@data-testid="hero-title-block__title"]/text()').extract_first()
         item['rating'] = response.xpath(
