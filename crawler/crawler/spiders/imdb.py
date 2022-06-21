@@ -1,12 +1,16 @@
 import scrapy
-# import requests
+import os
+
+os.chdir(os.getcwd())
+
+import requests
 from scrapy.http import Request
 from crawler.items import IMDBItem
 
 
 class ImdbSpider(scrapy.Spider):
     name = 'imdb'
-    allowed_domains = ['www.imdb.com']
+    allowed_domains = ['www.imdb.com', 'caching.graphql.imdb.com']
 
     def __init__(self):
         super().__init__()
@@ -34,10 +38,8 @@ class ImdbSpider(scrapy.Spider):
         item['rating'] = response.xpath(
             '//div[@data-testid="hero-rating-bar__aggregate-rating__score"]/span/text()').extract_first()
         api = f"https://caching.graphql.imdb.com/?operationName=TMD_Storyline&variables=%7B%22titleId%22%3A%22{response.url.split('/')[4]}%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22sha256Hash%22%3A%22cbefc9c4a2dbd0a5583e223e5bc788946016db709a731c85251fc1b1b7a1afbe%22%2C%22version%22%3A1%7D%7D"
-        # content_api = requests.get(
-        #     api, headers={"content-type": "application/json"}).json()
-        # content_api["data"]["title"]["summaries"]["edges"]["node"]["plotText"]["plaidHtml"]
-        item['plot_description'] = None
+        content_api = requests.get(api, headers={"content-type": "application/json"}).json()
+        item['plot_description'] = content_api["data"]["title"]["summaries"]["edges"][0]["node"]["plotText"]["plaidHtml"]
         item['budget'] = response.xpath(
             '//li[@data-testid="title-boxoffice-budget"]/div//span/text()').extract_first()
         item['box_office_gross'] = response.xpath(

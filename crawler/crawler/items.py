@@ -2,6 +2,9 @@ import scrapy
 
 
 class IMDBItem(scrapy.Item):
+    id = scrapy.Field()
+    url = scrapy.Field()
+    created_date = scrapy.Field()
     title = scrapy.Field()
     rating = scrapy.Field()
     budget = scrapy.Field()
