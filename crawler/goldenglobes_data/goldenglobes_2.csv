@@ -1,0 +1,346 @@
+year,actor,character,film,win
+1950,Fred Astaire,Bert Kalmar,Three Little Words,True
+1951,Danny Kaye,Jack Martin / Henri Duran,On the Riviera,True
+1951,Gene Kelly,Jerry Mulligan,An American in Paris,False
+1952,Donald O'Connor,Cosmo Brown,Singin' in the Rain,True
+1953,David Niven,David Slater,The Moon Is Blue,True
+1954,James Mason,Norman Maine,A Star Is Born,True
+1955,Tom Ewell,Richard Sherman,The Seven Year Itch,True
+1956,Cantinflas,Passepartout,Around the World in 80 Days,True
+1956,Marlon Brando,Sakini,The Teahouse of the August Moon,False
+1956,Yul Brynner,King Mongkut of Siam,The King and I,False
+1956,Glenn Ford,Captain Fisby,The Teahouse of the August Moon,False
+1956,Danny Kaye,Hubert Hawkins,The Court Jester,False
+1957,Frank Sinatra,Joey Evans,Pal Joey,True
+1957,Maurice Chevalier,Claude Chavasse,Love in the Afternoon,False
+1957,Glenn Ford,Lt. J. G. Max Siegel,Don't Go Near the Water,False
+1957,David Niven,Godfrey Smith,My Man Godfrey,False
+1957,Tony Randall,Rockwell P. Hunter,Will Success Spoil Rock Hunter?,False
+1958,Danny Kaye,S. L. Jacobowsky,Me and the Colonel,True
+1958,Maurice Chevalier,Honoré Lachaille,Gigi,False
+1958,Clark Gable,James Gannon,Teacher's Pet,False
+1958,Cary Grant,Philip Adams,Indiscreet,False
+1958,Louis Jourdan,Gaston Lachaille,Gigi,False
+1959,Jack Lemmon,Jerry / Daphne,Some Like It Hot,True
+1959,Clark Gable,Russell Ward,But Not for Me,False
+1959,Cary Grant,Lt. Cmdr. Matt T. Sherman,Operation Petticoat,False
+1959,Dean Martin,Michael Haney,Who Was That Lady?,False
+1959,Sidney Poitier,Porgy,Porgy and Bess,False
+1960,Jack Lemmon,C. C. Baxter,The Apartment,True
+1960,Dirk Bogarde,Franz Liszt,Song Without End,False
+1960,Cantinflas,Pepe,Pepe,False
+1960,Cary Grant,"Victor, Earl of Rhyall",The Grass Is Greener,False
+1960,Bob Hope,Larry Gilbert,The Facts of Life,False
+1961,Glenn Ford,"Dave, the Dude",Pocketful of Miracles,True
+1961,Fred Astaire,Pogo Poole,The Pleasure of His Company,False
+1961,Richard Beymer,Tony,West Side Story,False
+1961,Bob Hope,Adam Niles,Bachelor in Paradise,False
+1961,Fred MacMurray,Ned Brainard,The Absent-Minded Professor,False
+1962,Marcello Mastroianni,Ferdinando Cefalù,Divorce Italian Style,True
+1962,Stephen Boyd,Sam Rawlins,Billy Rose's Jumbo,False
+1962,Jimmy Durante,Anthony Wonder / Pop,Billy Rose's Jumbo,False
+1962,Cary Grant,Philip Shayne,That Touch of Mink,False
+Charlton Heston,Captain Paul MacDougall /,Benny the Snatch / Narrator,The Pigeon That Took Rome,True
+Charlton Heston,Karl Malden,Herbie Sommers,Gypsy,False
+Charlton Heston,Robert Preston,Harold Hill,The Music Man,False
+Charlton Heston,James Stewart,Roger Hobbs,Mr. Hobbs Takes a Vacation,False
+1963,Alberto Sordi,Amedeo Ferretti,To Bed or Not to Bed,True
+1963,Albert Finney,Tom Jones,Tom Jones,False
+1963,James Garner,Henry Tyroon,The Wheeler Dealers,False
+1963,Cary Grant,Brian Cruikshank,Charade,False
+1963,Jack Lemmon,Nestor Paptu / Lord X,Irma la Douce,False
+1963,Mr. Hogan,Under the Yum Yum Tree,Irma la Douce,False
+1963,Frank Sinatra,Alan Barker,Come Blow Your Horn,False
+1963,Jonathan Winters,Lennie Pike,"It's a Mad, Mad, Mad, Mad World",False
+1964,Rex Harrison,Henry Higgins,My Fair Lady,True
+1964,Marcello Mastroianni,Domenico Soriano,Marriage Italian-Style,False
+1964,Peter Sellers,Inspector Jacques Clouseau,The Pink Panther,False
+1964,Peter Ustinov,Arthur Simpson,Topkapi,False
+1964,Dick Van Dyke,"Bert / Mr. Dawes, Sr.",Mary Poppins,False
+1965,Lee Marvin,Kid Shelleen / Tim Strawn,Cat Ballou,True
+1965,Jack Lemmon,Professor Fate / Prince Hapnick,The Great Race,False
+1965,Jerry Lewis,Robert Reed,Boeing Boeing,False
+1965,Jason Robards,Murray Burns,A Thousand Clowns,False
+1965,Alberto Sordi,Count Emilio Ponticelli,Those Magnificent Men in their Flying Machines,False
+1966,Alan Arkin,Lt. Yuri Rozanov,"The Russians Are Coming, the Russians Are Coming",True
+1966,Alan Bates,Jos Jones,Georgy Girl,False
+1966,Michael Caine,Harry Dean,Gambit,False
+1966,Lionel Jeffries,Stanley Farquhar,The Spy with a Cold Nose,False
+1966,Walter Matthau,Willie Gingrich,The Fortune Cookie,False
+1967,Richard Harris,King Arthur,Camelot,True
+1967,Richard Burton,Petruchio,The Taming of the Shrew,False
+1967,Rex Harrison,Doctor John Dolittle,Doctor Dolittle,False
+1967,Dustin Hoffman,Benjamin Braddock,The Graduate,False
+1967,Ugo Tognazzi,Sergio Masini,L'immorale,False
+1968,Ron Moody,Fagin,Oliver!,True
+1968,Fred Astaire,Finian McLonergan,Finian's Rainbow,False
+1968,Jack Lemmon,Felix Ungar,The Odd Couple,False
+1968,Walter Matthau,Oscar Madison,The Odd Couple,False
+1968,Zero Mostel,Max Bialystock,The Producers,False
+1969,Peter O'Toole,Arthur Chipping,"Goodbye, Mr. Chips",True
+1969,Dustin Hoffman,John,John and Mary,False
+1969,Lee Marvin,Ben Rumson,Paint Your Wagon,False
+1969,Steve McQueen,Boon Hogganbeck,The Reivers,False
+1969,Anthony Quinn,Italo Bombolini,The Secret of Santa Vittoria,False
+1970,Albert Finney,Ebenezer Scrooge,Scrooge,True
+1970,Richard Benjamin,Jonathan Balser,Diary of a Mad Housewife,False
+1970,Elliott Gould,"Captain John ""Trapper"" McIntyre",M*A*S*H,False
+1970,Jack Lemmon,George Kellerman,The Out-of-Towners,False
+1970,Donald Sutherland,"Captain Benjamin ""Hawkeye"" Pierce",M*A*S*H,False
+1971,Topol,Tevye,Fiddler on the Roof,True
+1971,Bud Cort,Harold Chasen,Harold and Maude,False
+1971,Dean Jones,Professor Dooley,The Million Dollar Duck,False
+1971,Walter Matthau,Joseph P. Kotcher,Kotch,False
+1971,Gene Wilder,Willy Wonka,Willy Wonka & the Chocolate Factory,False
+1972,Jack Lemmon,Wendell Armbruster,Avanti!,True
+1972,Edward Albert,Don Baker,Butterflies Are Free,False
+1972,Charles Grodin,Lenny Cantrow,The Heartbreak Kid,False
+1972,Walter Matthau,Pete,Pete 'n' Tillie,False
+Peter O'Toole,Don Quixote de la Mancha /,Miguel de Cervantes,Man of La Mancha,True
+1973,George Segal,Steve Blackburn,A Touch of Class,True
+1973,Carl Anderson,Judas Iscariot,Jesus Christ Superstar,False
+1973,Richard Dreyfuss,Curt Henderson,American Graffiti,False
+1973,Ted Neeley,Jesus Christ,Jesus Christ Superstar,False
+1973,Ryan O'Neal,Moses Pray,Paper Moon,False
+1974,Art Carney,Harry Coombes,Harry and Tonto,True
+1974,James Earl Jones,Rupert Marshall,Claudine,False
+1974,Jack Lemmon,Hildy Johnson,The Front Page,False
+1974,Walter Matthau,Walter Burns,The Front Page,False
+1974,Burt Reynolds,"Paul ""Wrecking"" Crewe",The Longest Yard,False
+1975,George Burns,Al Lewis,The Sunshine Boys,True
+1975,Walter Matthau,Willy Clark,The Longest Yard,False
+1975,Warren Beatty,George Roundy,Shampoo,False
+1975,James Caan,Billy Rose,Funny Lady,False
+1975,Peter Sellers,Inspector Jacques Clouseau,The Return of the Pink Panther,False
+1976,Kris Kristofferson,John Howard,A Star Is Born,True
+1976,Mel Brooks,Mel Funn,Silent Movie,False
+1976,Peter Sellers,Inspector Jacques Clouseau,The Pink Panther Strikes Again,False
+1976,Jack Weston,Gaetano Proclo,The Ritz,False
+1976,Gene Wilder,George Caldwell,Silver Streak,False
+1977,Richard Dreyfuss,Elliott Garfield,The Goodbye Girl,True
+1977,Woody Allen,Alvy Singer,Annie Hall,False
+1977,Mel Brooks,Dr. Richard H. Thorndyke,High Anxiety,False
+1977,Robert De Niro,Jimmy Doyle,"New York, New York",False
+1977,John Travolta,Tony Manero,Saturday Night Fever,False
+1978,Warren Beatty,Joe Pendleton,Heaven Can Wait,True
+1978,Alan Alda,George,"Same Time, Next Year",False
+1978,Gary Busey,Buddy Holly,The Buddy Holly Story,False
+1978,Chevy Chase,Detective Tony Carlson,Foul Play,False
+1978,George C. Scott,Gloves Malloy / Spats Baxter,Movie Movie,False
+1978,John Travolta,Danny Zuko,Grease,False
+1979,Peter Sellers,Chance,Being There,True
+1979,George Hamilton,Count Dracula,Love at First Bite,False
+1979,Dudley Moore,George Webber,10,False
+1979,Burt Reynolds,Phil Potter,Starting Over,False
+1979,Roy Scheider,Joe Gideon,All That Jazz,False
+1980,Ray Sharkey,Vinnie Vacarri,The Idolmaker,True
+1980,Neil Diamond,Yussel Rabinovitch,The Jazz Singer,False
+1980,Tommy Lee Jones,Doolittle Mooney Lynn,Coal Miner's Daughter,False
+1980,Paul Le Mat,Melvin Dummar,Melvin and Howard,False
+1980,Walter Matthau,Miles Kendig,Hopscotch,False
+1981,Dudley Moore,Arthur Bach,Arthur,True
+1981,Alan Alda,Jack Burroughs,The Four Seasons,False
+1981,George Hamilton,Don Diego Vega / Zorro / Wigglesworth / Ramon Vega,"Zorro, The Gay Blade",False
+1981,Steve Martin,Arthur Parker,Pennies from Heaven,False
+1981,Walter Matthau,Dan Snow,First Monday in October,False
+1982,Dustin Hoffman,Michael Dorsey / Dorothy Michaels,Tootsie,True
+1982,Peter O'Toole,Alan Swann,My Favorite Year,False
+1982,Al Pacino,Ivan Travalian,Author! Author!,False
+1982,Robert Preston,"Caroll ""Toddy"" Todd",Victor Victoria,False
+1982,Henry Winkler,Chuck,Night Shift,False
+1983,Michael Caine,Frank Bryant,Educating Rita,True
+1983,Woody Allen,Leonard Zelig,Zelig,False
+1983,Tom Cruise,Joel Goodson,Risky Business,False
+1983,Eddie Murphy,Billy Ray Valentine,Trading Places,False
+1983,Mandy Patinkin,Avigdor,Yentl,False
+1984,Dudley Moore,Rob Salinger,Micki & Maude,True
+1984,Steve Martin,Roger Cobb,All of Me,False
+1984,Eddie Murphy,Axel Foley,Beverly Hills Cop,False
+1984,Bill Murray,Peter Venkman,Ghostbusters,False
+1984,Robin Williams,Vladimir Ivanoff,Moscow on the Hudson,False
+1985,Jack Nicholson,Charley Partanna,Prizzi's Honor,True
+1985,Jeff Daniels,Tom Baxter / Gil Sheperd,The Purple Rose of Cairo,False
+1985,Griffin Dunne,Paul Hackett,After Hours,False
+1985,Michael J. Fox,Marty McFly,Back to the Future,False
+1985,James Garner,Murphy Jones,Murphy's Romance,False
+1986,Paul Hogan,"Michael J. ""Crocodile"" Dundee",Crocodile Dundee,True
+1986,Matthew Broderick,Ferris Bueller,Ferris Bueller's Day Off,False
+1986,Jeff Daniels,Charles Driggs,Something Wild,False
+1986,Danny DeVito,Sam Stone,Ruthless People,False
+1986,Jack Lemmon,Harvey Fairchild,That's Life!,False
+1987,Robin Williams,Adrian Cronauer,"Good Morning, Vietnam",True
+1987,Nicolas Cage,Ronny Cammareri,Moonstruck,False
+1987,Danny DeVito,Owen Lift,Throw Momma from the Train,False
+1987,William Hurt,Tom Grunick,Broadcast News,False
+1987,Steve Martin,C. D. Bales,Roxanne,False
+1987,Patrick Swayze,Johnny Castle,Dirty Dancing,False
+1988,Tom Hanks,Josh Baskin,Big,True
+1988,Michael Caine,Lawrence Jamieson,Dirty Rotten Scoundrels,False
+1988,John Cleese,Archie Leach,A Fish Called Wanda,False
+1988,Robert De Niro,Jack Walsh,Midnight Run,False
+1988,Bob Hoskins,Eddie Valliant,Who Framed Roger Rabbit,False
+1989,Morgan Freeman,Hoke Colburn,Driving Miss Daisy,True
+1989,Billy Crystal,Harry Burns,When Harry Met Sally...,False
+1989,Michael Douglas,Oliver Rose,The War of the Roses,False
+1989,Steve Martin,Gil Buckman,Parenthood,False
+1989,Jack Nicholson,Jack Napier / The Joker,Batman,False
+1990,Gérard Depardieu,Georges Fauré,Green Card,True
+1990,Macaulay Culkin,Kevin McCallister,Home Alone,False
+1990,Johnny Depp,Edward Scissorhands,Edward Scissorhands,False
+1990,Richard Gere,Edward Lewis,Pretty Woman,False
+1990,Patrick Swayze,Sam Wheat,Ghost,False
+1991,Robin Williams,"Henry ""Parry"" Sagan",The Fisher King,True
+1991,Jeff Bridges,Jack Lucas,The Fisher King,False
+1991,Billy Crystal,Mitch Robbins,City Slickers,False
+1991,Dustin Hoffman,Captain Hook,Hook,False
+1991,Kevin Kline,Jeffrey Anderson / Rod Randall,Soapdish,False
+1992,Tim Robbins,Griffin Mill,The Player,True
+1992,Nicolas Cage,Jack Singer,Honeymoon in Vegas,False
+1992,Billy Crystal,Buddy Young Jr.,Mr. Saturday Night,False
+1992,Marcello Mastroianni,Joe Meledandri,Used People,False
+1992,Tim Robbins,Bob Roberts,Bob Roberts,False
+1993,Robin Williams,Daniel Hillard / Mrs. Euphegenia Doubtfire,Mrs. Doubtfire,True
+1993,Johnny Depp,Sam,Benny & Joon,False
+1993,Tom Hanks,Sam Baldwin,Sleepless in Seattle,False
+1993,Kevin Kline,Dave Kovic / Bill Mitchell,Dave,False
+1993,Colm Meaney,Dessie Curley,The Snapper,False
+1994,Hugh Grant,Charles,Four Weddings and a Funeral,True
+1994,Jim Carrey,Stanley Ipkiss / The Mask,The Mask,False
+1994,Johnny Depp,Ed Wood,Ed Wood,False
+1994,Arnold Schwarzenegger,Alex Hesse,Junior,False
+1994,Terence Stamp,Ralph / Bernadette Bassenger,"The Adventures of Priscilla, Queen of the Desert",False
+1995,John Travolta,Chili Palmer,Get Shorty,True
+1995,Michael Douglas,Andrew Shepherd,The American President,False
+1995,Harrison Ford,Linus Larrabee,Sabrina,False
+1995,Steve Martin,George Banks,Father of the Bride Part II,False
+1995,Patrick Swayze,Vida Boheme,"To Wong Foo, Thanks for Everything! Julie Newmar",False
+1996,Tom Cruise,Jerry Maguire,Jerry Maguire,True
+1996,Antonio Banderas,Ché,Evita,False
+1996,Kevin Costner,"Roy ""Tin Cup"" McAvoy",Tin Cup,False
+1996,Nathan Lane,Albert Goldman,The Birdcage,False
+Eddie Murphy,Professor Sherman Klump,/ Buddy Love / Papa Klump / Mama Klump / Granny Klump / Ernie Klump / Lance Perkins,The Nutty Professor,True
+1997,Jack Nicholson,Melvin Udall,As Good as It Gets,True
+1997,Jim Carrey,Fletcher Reed,Liar Liar,False
+1997,Dustin Hoffman,Stanley Motss,Wag the Dog,False
+1997,Samuel L. Jackson,Ordell Robbie,Jackie Brown,False
+1997,Kevin Kline,Howard Brackett,In & Out,False
+1998,Michael Caine,Ray Say,Little Voice,True
+1998,Antonio Banderas,Alejandro Murrieta / Zorro,The Mask of Zorro,False
+1998,Warren Beatty,Senator Jay Billington Bulworth,Bulworth,False
+1998,John Travolta,Governor Jack Stanton,Primary Colors,False
+1998,Robin Williams,"Dr. Hunter ""Patch"" Adams",Patch Adams,False
+1998,Robert De Niro,Paul Vitti,Analyze This,False
+1998,Rupert Everett,Lord Arthur Goring,An Ideal Husband,False
+1998,Hugh Grant,"William ""Will"" Thacker",Notting Hill,False
+1998,Sean Penn,Emmet Ray,Sweet and Lowdown,False
+2000,George Clooney,Ulysses Everett McGill,"O Brother, Where Art Thou?",True
+2000,Jim Carrey,The Grinch,How the Grinch Stole Christmas,False
+2000,John Cusack,Rob Gordon,High Fidelity,False
+2000,Robert De Niro,Jack Byrnes,Meet the Parents,False
+2000,Mel Gibson,Nick Marshall,What Women Want,False
+2001,Gene Hackman,Royal Tenenbaum,The Royal Tenenbaums,True
+2001,Hugh Jackman,Leopold Hausmann,Kate & Leopold,False
+2001,Ewan McGregor,Christian,Moulin Rouge!,False
+2001,John Cameron Mitchell,Hedwig Robinson,Hedwig and the Angry Inch,False
+2001,Billy Bob Thornton,Terry Lee Collins,Bandits,False
+2002,Richard Gere,Billy Flynn,Chicago,True
+Nicolas Cage,Charlie Kaufman,/ Donald Kaufman,Adaptation.,True
+Nicolas Cage,Kieran Culkin,"Jason ""Igby"" Slocumb Jr.",Igby Goes Down,False
+Nicolas Cage,Hugh Grant,Will Freeman,About a Boy,False
+Nicolas Cage,Adam Sandler,Barry Egan,Punch-Drunk Love,False
+2003,Bill Murray,Bob Harris,Lost in Translation,True
+2003,Jack Black,Dewey Finn,School of Rock,False
+2003,Johnny Depp,Captain Jack Sparrow,Pirates of the Caribbean: The Curse of the Black Pearl,False
+2003,Jack Nicholson,Harry Sanborn,Something's Gotta Give,False
+2003,Billy Bob Thornton,Willie T. Stokes,Bad Santa,False
+2004,Jamie Foxx,Ray Charles,Ray,True
+2004,Jim Carrey,Joel Barish,Eternal Sunshine of the Spotless Mind,False
+2004,Paul Giamatti,Miles Raymond,Sideways,False
+2004,Kevin Kline,Cole Porter,De-Lovely,False
+2004,Kevin Spacey,Bobby Darin,Beyond the Sea,False
+2005,Joaquin Phoenix,Johnny Cash,Walk the Line,True
+2005,Pierce Brosnan,Julian Noble,The Matador,False
+2005,Jeff Daniels,Bernard Berkman,The Squid and the Whale,False
+2005,Johnny Depp,Willy Wonka,Charlie and the Chocolate Factory,False
+2005,Nathan Lane,Max Bialystock,The Producers,False
+2005,Cillian Murphy,"Patrick ""Kitten"" Braden",Breakfast on Pluto,False
+2006,Sacha Baron Cohen,Borat Sagdiyev,Borat,True
+2006,Johnny Depp,Captain Jack Sparrow,Pirates of the Caribbean: Dead Man's Chest,False
+2006,Aaron Eckhart,Nick Naylor,Thank You for Smoking,False
+2006,Chiwetel Ejiofor,Lola Carter,Kinky Boots,False
+2006,Will Ferrell,Harold Crick,Stranger than Fiction,False
+2007,Johnny Depp,Sweeney Todd / Benjamin Barker,Sweeney Todd: The Demon Barber of Fleet Street,True
+2007,Ryan Gosling,Lars Lindstrom,Lars and the Real Girl,False
+2007,Tom Hanks,Charlie Wilson,Charlie Wilson's War,False
+2007,Philip Seymour Hoffman,Jon Savage,The Savages,False
+2007,John C. Reilly,Dewey Cox,Walk Hard: The Dewey Cox Story,False
+2008,Colin Farrell,Ray,In Bruges,True
+2008,Javier Bardem,Juan Antonio,Vicky Cristina Barcelona,False
+2008,James Franco,Saul Silver,Pineapple Express,False
+2008,Brendan Gleeson,Ken Daley,In Bruges,False
+2008,Dustin Hoffman,Harvey Shine,Last Chance Harvey,False
+2009,Robert Downey Jr.,Sherlock Holmes,Sherlock Holmes,True
+2009,Matt Damon,Mark Whitacre,The Informant!,False
+2009,Daniel Day-Lewis,Guido Contini,Nine,False
+2009,Joseph Gordon-Levitt,Tom Hansen,(500) Days of Summer,False
+2009,Michael Stuhlbarg,Larry Gopnik,A Serious Man,False
+2010,Paul Giamatti,Barney Panofsky,Barney's Version,True
+2010,Johnny Depp,The Mad Hatter,Alice in Wonderland,False
+2010,Frank Tupelo,The Tourist,Alice in Wonderland,False
+2010,Jake Gyllenhaal,Jamie Randall,Love & Other Drugs,False
+2010,Kevin Spacey,Jack Abramoff,Casino Jack,False
+2011,Jean Dujardin,George Valentin,The Artist,True
+2011,Brendan Gleeson,Sgt. Gerry Boyle,The Guard,False
+2011,Joseph Gordon-Levitt,Adam Lerner,50/50,False
+2011,Ryan Gosling,Jacob Palmer,"Crazy, Stupid, Love",False
+2011,Owen Wilson,Gil Pender,Midnight in Paris,False
+2012,Hugh Jackman,Jean Valjean,Les Misérables,True
+2012,Jack Black,Bernie Tiede,Bernie,False
+2012,Bradley Cooper,"Patrizio ""Pat"" Solitano Jr.",Silver Linings Playbook,False
+2012,Ewan McGregor,Dr. Alfred Jones,Salmon Fishing in the Yemen,False
+2012,Bill Murray,Franklin D. Roosevelt,Hyde Park on Hudson,False
+2013,Leonardo DiCaprio,Jordan Belfort,The Wolf of Wall Street,True
+2013,Christian Bale,Irving Rosenfeld,American Hustle,False
+2013,Bruce Dern,"Woodrow ""Woody"" Grant",Nebraska,False
+2013,Oscar Isaac,Llewyn Davis,Inside Llewyn Davis,False
+2013,Joaquin Phoenix,Theodore Twombly,Her,False
+2014,Michael Keaton,Riggan Thomson,Birdman,True
+2014,Ralph Fiennes,Monsieur Gustave H.,The Grand Budapest Hotel,False
+2014,Bill Murray,Vincent MacKenna,St. Vincent,False
+2014,Joaquin Phoenix,"Larry ""Doc"" Sportello",Inherent Vice,False
+2014,Christoph Waltz,Walter Keane,Big Eyes,False
+2015,Matt Damon,Mark Watney,The Martian,True
+2015,Christian Bale,Michael Burry,The Big Short,False
+2015,Steve Carell,Mark Baum,The Big Short,False
+2015,Al Pacino,Danny Collins,Danny Collins,False
+2015,Mark Ruffalo,Cameron Stuart,Infinitely Polar Bear,False
+2016,Ryan Gosling,Sebastian Wilder,La La Land,True
+2016,Colin Farrell,David Matthews,The Lobster,False
+2016,Hugh Grant,St. Clair Bayfield,Florence Foster Jenkins,False
+2016,Jonah Hill,Efraim Diveroli,War Dogs,False
+2016,Ryan Reynolds,Wade Wilson / Deadpool,Deadpool,False
+2017,James Franco,Tommy Wiseau,The Disaster Artist,True
+2017,Steve Carell,Bobby Riggs,Battle of the Sexes,False
+2017,Ansel Elgort,"Miles ""Baby""",Baby Driver,False
+2017,Hugh Jackman,P.T. Barnum,The Greatest Showman,False
+2017,Daniel Kaluuya,Chris Washington,Get Out,False
+2018,Christian Bale,Dick Cheney,Vice,True
+2018,Lin-Manuel Miranda,Jack,Mary Poppins Returns,False
+2018,Viggo Mortensen,"Frank ""Tony Lip"" Vallelonga",Green Book,False
+2018,Robert Redford,Forrest Tucker,The Old Man & the Gun,False
+2018,John C. Reilly,Oliver Hardy,Stan & Ollie,False
+2019,Taron Egerton,Elton John,Rocketman,True
+2019,Daniel Craig,Benoit Blanc,Knives Out,False
+2019,Roman Griffin Davis,"Johannes ""Jojo"" Betzler",Jojo Rabbit,False
+2019,Leonardo DiCaprio,Rick Dalton,Once Upon a Time in Hollywood,False
+2019,Eddie Murphy,Rudy Ray Moore,Dolemite Is My Name,False
+2020,Sacha Baron Cohen,Borat Sagdiyev,Borat Subsequent Moviefilm,True
+2020,James Corden,Barry Glickman,The Prom,False
+2020,Lin-Manuel Miranda,Alexander Hamilton,Hamilton,False
+2020,Dev Patel,David Copperfield,The Personal History of David Copperfield,False
+2020,Andy Samberg,Nyles,Palm Springs,False
+2021,Andrew Garfield,Jonathan Larson,"Tick, Tick... Boom!",True
+2021,Leonardo DiCaprio,Randall Mindy,Don't Look Up,False
+2021,Peter Dinklage,Cyrano de Bergerac,Cyrano,False
+2021,Cooper Hoffman,Gary Valentine,Licorice Pizza,False
+2021,Anthony Ramos,Usnavi de la Vega,In the Heights,False

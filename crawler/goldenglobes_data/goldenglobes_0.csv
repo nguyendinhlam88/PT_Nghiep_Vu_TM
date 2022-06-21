@@ -1,0 +1,368 @@
+year,nominees,film,win
+1943,Henry King,The Song of Bernadette,True
+1944,Leo McCarey,Going My Way,True
+1945,Billy Wilder,The Lost Weekend,True
+1946,Frank Capra,It's a Wonderful Life,True
+1947,Elia Kazan,Gentleman's Agreement,True
+1948,John Huston,The Treasure of the Sierra Madre,True
+1949,Robert Rossen,All the King's Men,True
+1950,Billy Wilder,Sunset Boulevard,True
+1950,Joseph L. Mankiewicz,Joseph L. Mankiewicz,False
+1950,John Huston,John Huston,False
+1950,George Cukor,George Cukor,False
+1951,László Benedek,Death of a Salesman,True
+1951,Vincente Minnelli,Vincente Minnelli,False
+1951,George Stevens,George Stevens,False
+1952,Cecil B. DeMille,The Greatest Show on Earth,True
+1952,Richard Fleischer,Richard Fleischer,False
+1952,John Ford,John Ford,False
+1953,Fred Zinnemann,From Here to Eternity,True
+1954,Elia Kazan,On the Waterfront,True
+1955,Joshua Logan,Picnic,True
+1956,Elia Kazan,Baby Doll,True
+1956,Michael Anderson,Michael Anderson,False
+1956,George Stevens,George Stevens,False
+1956,Vincente Minnelli,Vincente Minnelli,False
+1956,King Vidor,King Vidor,False
+1957,David Lean,The Bridge on the River Kwai,True
+1957,Sidney Lumet,Sidney Lumet,False
+1957,Fred Zinnemann,Fred Zinnemann,False
+1957,Joshua Logan,Joshua Logan,False
+1957,Billy Wilder,Billy Wilder,False
+1958,Vincente Minnelli,Gigi,True
+1958,Richard Brooks,Richard Brooks,False
+1958,Stanley Kramer,Stanley Kramer,False
+1958,Robert Wise,Robert Wise,False
+1958,Delbert Mann,Delbert Mann,False
+1959,William Wyler,Ben-Hur,True
+1959,Otto Preminger,Otto Preminger,False
+1959,George Stevens,George Stevens,False
+1959,Fred Zinnemann,Fred Zinnemann,False
+1959,Stanley Kramer,Stanley Kramer,False
+1960,Jack Cardiff,Sons and Lovers,True
+1960,Billy Wilder,Billy Wilder,False
+1960,Richard Brooks,Richard Brooks,False
+1960,Stanley Kubrick,Stanley Kubrick,False
+1960,Fred Zinnemann,Fred Zinnemann,False
+1961,Stanley Kramer,Judgment at Nuremberg,True
+1961,William Wyler,William Wyler,False
+1961,Anthony Mann,Anthony Mann,False
+1961,J. Lee Thompson,J. Lee Thompson,False
+1961,Jerome Robbins,Jerome Robbins,False
+1962,David Lean,Lawrence of Arabia,True
+1962,George Cukor,George Cukor,False
+1962,Blake Edwards,Blake Edwards,False
+1962,John Huston,John Huston,False
+1962,Mervyn LeRoy,Mervyn LeRoy,False
+1962,Martin Ritt,Martin Ritt,False
+1962,Stanley Kubrick,Stanley Kubrick,False
+1962,John Frankenheimer,John Frankenheimer,False
+1962,Morton DaCosta,Morton DaCosta,False
+1962,Ismael Rodríguez,Ismael Rodríguez,False
+1962,Robert Mulligan,Robert Mulligan,False
+1963,Elia Kazan,America America,True
+1963,Otto Preminger,Otto Preminger,False
+1963,Hall Bartlett,Hall Bartlett,False
+1963,Joseph L. Mankiewicz,Joseph L. Mankiewicz,False
+1963,Robert Wise,Robert Wise,False
+1963,Martin Ritt,Martin Ritt,False
+1963,Tony Richardson,Tony Richardson,False
+1963,George Englund,George Englund,False
+1964,George Cukor,My Fair Lady,True
+1964,Peter Glenville,Peter Glenville,False
+1964,John Huston,John Huston,False
+1964,John Frankenheimer,John Frankenheimer,False
+1964,Michael Cacoyannis,Michael Cacoyannis,False
+1965,David Lean,Doctor Zhivago,True
+1965,William Wyler,William Wyler,False
+1965,John Schlesinger,John Schlesinger,False
+1965,Guy Green,Guy Green,False
+1965,Robert Wise,Robert Wise,False
+1966,Fred Zinnemann,A Man for All Seasons,True
+1966,Lewis Gilbert,Lewis Gilbert,False
+1966,Claude Lelouch,Claude Lelouch,False
+1966,Robert Wise,Robert Wise,False
+1966,Mike Nichols,Mike Nichols,False
+1967,Mike Nichols,The Graduate,True
+1967,Arthur Penn,Arthur Penn,False
+1967,Mark Rydell,Mark Rydell,False
+1967,Stanley Kramer,Stanley Kramer,False
+1967,Norman Jewison,Norman Jewison,False
+1968,Paul Newman,"Rachel, Rachel",True
+1968,William Wyler,William Wyler,False
+1968,Anthony Harvey,Anthony Harvey,False
+1968,Carol Reed,Carol Reed,False
+1968,Franco Zeffirelli,Franco Zeffirelli,False
+1969,Charles Jarrott,Anne of the Thousand Days,True
+1969,Gene Kelly,Gene Kelly,False
+1969,John Schlesinger,John Schlesinger,False
+1969,Stanley Kramer,Stanley Kramer,False
+1969,Sydney Pollack,Sydney Pollack,False
+1970,Arthur Hiller,Love Story,True
+1970,Bob Rafelson,Bob Rafelson,False
+1970,Robert Altman,Robert Altman,False
+1970,Franklin J. Schaffner,Franklin J. Schaffner,False
+1970,Ken Russell,Ken Russell,False
+1971,William Friedkin,The French Connection,True
+1971,Stanley Kubrick,Stanley Kubrick,False
+1971,Norman Jewison,Norman Jewison,False
+1971,Peter Bogdanovich,Peter Bogdanovich,False
+1971,Robert Mulligan,Robert Mulligan,False
+1972,Francis Ford Coppola,The Godfather,True
+1972,Billy Wilder,Billy Wilder,False
+1972,Bob Fosse,Bob Fosse,False
+1972,John Boorman,John Boorman,False
+1972,Alfred Hitchcock,Alfred Hitchcock,False
+1973,William Friedkin,The Exorcist,True
+1973,George Lucas,George Lucas,False
+1973,Fred Zinnemann,Fred Zinnemann,False
+1973,Bernardo Bertolucci,Bernardo Bertolucci,False
+1973,Peter Bogdanovich,Peter Bogdanovich,False
+1974,Roman Polanski,Chinatown,True
+1974,Francis Ford Coppola,Francis Ford Coppola,False
+1974,The Godfather Part II,The Godfather Part II,False
+1974,Bob Fosse,Bob Fosse,False
+1974,John Cassavetes,John Cassavetes,False
+1975,Miloš Forman,One Flew Over the Cuckoo's Nest,True
+1975,Stanley Kubrick,Stanley Kubrick,False
+1975,Sidney Lumet,Sidney Lumet,False
+1975,Steven Spielberg,Steven Spielberg,False
+1975,Robert Altman,Robert Altman,False
+1976,Sidney Lumet,Network,True
+1976,Alan J. Pakula,Alan J. Pakula,False
+1976,Hal Ashby,Hal Ashby,False
+1976,John Schlesinger,John Schlesinger,False
+1976,John G. Avildsen,John G. Avildsen,False
+1977,Herbert Ross,The Turning Point,True
+1977,Woody Allen,Woody Allen,False
+1977,Steven Spielberg,Steven Spielberg,False
+1977,Fred Zinnemann,Fred Zinnemann,False
+1977,George Lucas,George Lucas,False
+1978,Michael Cimino,The Deer Hunter,True
+1978,Hal Ashby,Hal Ashby,False
+1978,Terrence Malick,Terrence Malick,False
+1978,Woody Allen,Woody Allen,False
+1978,Alan Parker,Alan Parker,False
+1978,Paul Mazursky,Paul Mazursky,False
+1979,Francis Ford Coppola,Apocalypse Now,True
+1979,Hal Ashby,Hal Ashby,False
+1979,Peter Yates,Peter Yates,False
+1979,James Bridges,James Bridges,False
+1979,Robert Benton,Robert Benton,False
+1980,Robert Redford,Ordinary People,True
+1980,David Lynch,David Lynch,False
+1980,Martin Scorsese,Martin Scorsese,False
+1980,Richard Rush,Richard Rush,False
+1980,Roman Polanski,Roman Polanski,False
+1981,Warren Beatty,Reds,True
+1981,Louis Malle,Louis Malle,False
+1981,Mark Rydell,Mark Rydell,False
+1981,Sidney Lumet,Sidney Lumet,False
+1981,Miloš Forman,Miloš Forman,False
+1981,Steven Spielberg,Steven Spielberg,False
+1982,Richard Attenborough,Gandhi,True
+1982,Steven Spielberg,Steven Spielberg,False
+1982,Constantin Costa-Gavras,Constantin Costa-Gavras,False
+1982,Sydney Pollack,Sydney Pollack,False
+1982,Sidney Lumet,Sidney Lumet,False
+1983,Barbra Streisand,Yentl,True
+1983,Peter Yates,Peter Yates,False
+1983,Ingmar Bergman,Ingmar Bergman,False
+1983,Mike Nichols,Mike Nichols,False
+1983,Bruce Beresford,Bruce Beresford,False
+1983,James L. Brooks,James L. Brooks,False
+1984,Miloš Forman,Amadeus,True
+1984,Francis Ford Coppola,Francis Ford Coppola,False
+1984,Roland Joffé,Roland Joffé,False
+1984,Sergio Leone,Sergio Leone,False
+1984,David Lean,David Lean,False
+1985,John Huston,Prizzi's Honor,True
+1985,Richard Attenborough,Richard Attenborough,False
+1985,Steven Spielberg,Steven Spielberg,False
+1985,Sydney Pollack,Sydney Pollack,False
+1985,Peter Weir,Peter Weir,False
+1986,Oliver Stone,Platoon,True
+1986,Woody Allen,Woody Allen,False
+1986,Roland Joffé,Roland Joffé,False
+1986,James Ivory,James Ivory,False
+1986,Rob Reiner,Rob Reiner,False
+1987,Bernardo Bertolucci,The Last Emperor,True
+1987,James L. Brooks,James L. Brooks,False
+1987,Richard Attenborough,Richard Attenborough,False
+1987,Adrian Lyne,Adrian Lyne,False
+1987,John Boorman,John Boorman,False
+1988,Clint Eastwood,Bird,True
+1988,Fred Schepisi,Fred Schepisi,False
+1988,Alan Parker,Alan Parker,False
+1988,Barry Levinson,Barry Levinson,False
+1988,Sidney Lumet,Sidney Lumet,False
+1988,Mike Nichols,Mike Nichols,False
+1989,Oliver Stone,Born on the Fourth of July,True
+1989,Peter Weir,Peter Weir,False
+1989,Spike Lee,Spike Lee,False
+1989,Edward Zwick,Edward Zwick,False
+1989,Rob Reiner,Rob Reiner,False
+1990,Kevin Costner,Dances with Wolves,True
+1990,Francis Ford Coppola,Francis Ford Coppola,False
+1990,Martin Scorsese,Martin Scorsese,False
+1990,Barbet Schroeder,Barbet Schroeder,False
+1990,Bernardo Bertolucci,Bernardo Bertolucci,False
+1991,Oliver Stone,JFK,True
+1991,Barry Levinson,Barry Levinson,False
+1991,Terry Gilliam,Terry Gilliam,False
+1991,Barbra Streisand,Barbra Streisand,False
+1991,Jonathan Demme,Jonathan Demme,False
+1992,Clint Eastwood,Unforgiven,True
+1992,Rob Reiner,Rob Reiner,False
+1992,James Ivory,James Ivory,False
+1992,Robert Altman,Robert Altman,False
+1992,Robert Redford,Robert Redford,False
+1993,Steven Spielberg,Schindler's List,True
+1993,Martin Scorsese,Martin Scorsese,False
+1993,Andrew Davis,Andrew Davis,False
+1993,Jane Campion,Jane Campion,False
+1993,James Ivory,James Ivory,False
+1994,Robert Zemeckis,Forrest Gump,True
+1994,Edward Zwick,Edward Zwick,False
+1994,Oliver Stone,Oliver Stone,False
+1994,Quentin Tarantino,Quentin Tarantino,False
+1994,Robert Redford,Robert Redford,False
+1995,Mel Gibson,Braveheart,True
+1995,Rob Reiner,Rob Reiner,False
+1995,Ron Howard,Ron Howard,False
+1995,Martin Scorsese,Martin Scorsese,False
+1995,Mike Figgis,Mike Figgis,False
+1995,Ang Lee,Ang Lee,False
+1996,Miloš Forman,The People vs. Larry Flynt,True
+1996,Anthony Minghella,Anthony Minghella,False
+1996,Alan Parker,Alan Parker,False
+1996,Joel Coen,Joel Coen,False
+1996,Scott Hicks,Scott Hicks,False
+1997,James Cameron,Titanic,True
+1997,Steven Spielberg,Steven Spielberg,False
+1997,James L. Brooks,James L. Brooks,False
+1997,Jim Sheridan,Jim Sheridan,False
+1997,Curtis Hanson,Curtis Hanson,False
+1998,Steven Spielberg,Saving Private Ryan,True
+1998,Shekhar Kapur,Shekhar Kapur,False
+1998,Robert Redford,Robert Redford,False
+1998,John Madden,John Madden,False
+1998,Peter Weir,Peter Weir,False
+1999,Sam Mendes,American Beauty,True
+1999,Neil Jordan,Neil Jordan,False
+1999,Norman Jewison,Norman Jewison,False
+1999,Michael Mann,Michael Mann,False
+1999,Anthony Minghella,Anthony Minghella,False
+2000,Ang Lee,"Crouching Tiger, Hidden Dragon",True
+2000,Steven Soderbergh,Steven Soderbergh,False
+2000,Ridley Scott,Ridley Scott,False
+2000,István Szabó,István Szabó,False
+2000,Steven Soderbergh,Steven Soderbergh,False
+2001,Robert Altman,Gosford Park,True
+2001,Steven Spielberg,Steven Spielberg,False
+2001,Ron Howard,Ron Howard,False
+2001,Peter Jackson,Peter Jackson,False
+2001,Baz Luhrmann,Baz Luhrmann,False
+2001,David Lynch,David Lynch,False
+2002,Martin Scorsese,Gangs of New York,True
+2002,Alexander Payne,Alexander Payne,False
+2002,Spike Jonze,Spike Jonze,False
+2002,Rob Marshall,Rob Marshall,False
+2002,Stephen Daldry,Stephen Daldry,False
+2002,Peter Jackson,Peter Jackson,False
+2003,Peter Jackson,The Lord of the Rings: The Return of the King,True
+2003,Anthony Minghella,Anthony Minghella,False
+2003,Sofia Coppola,Sofia Coppola,False
+2003,Peter Weir,Peter Weir,False
+2003,Clint Eastwood,Clint Eastwood,False
+2004,Clint Eastwood,Million Dollar Baby,True
+2004,Martin Scorsese,Martin Scorsese,False
+2004,Mike Nichols,Mike Nichols,False
+2004,Marc Forster,Marc Forster,False
+2004,Alexander Payne,Alexander Payne,False
+2005,Ang Lee,Brokeback Mountain,True
+2005,Fernando Meirelles,Fernando Meirelles,False
+2005,George Clooney,George Clooney,False
+2005,Peter Jackson,Peter Jackson,False
+2005,Woody Allen,Woody Allen,False
+2005,Steven Spielberg,Steven Spielberg,False
+2006,Martin Scorsese,The Departed,True
+2006,Alejandro González Iñárritu,Alejandro González Iñárritu,False
+2006,Clint Eastwood,Clint Eastwood,False
+2006,Letters from Iwo Jima,Letters from Iwo Jima,False
+2006,Stephen Frears,Stephen Frears,False
+2007,Julian Schnabel,The Diving Bell and the Butterfly,True
+2007,Ridley Scott,Ridley Scott,False
+2007,Joe Wright,Joe Wright,False
+2007,Joel Coen and Ethan Coen,Joel Coen and Ethan Coen,False
+2007,Tim Burton,Tim Burton,False
+2008,Danny Boyle,Slumdog Millionaire,True
+2008,David Fincher,David Fincher,False
+2008,Ron Howard,Ron Howard,False
+2008,Stephen Daldry,Stephen Daldry,False
+2008,Sam Mendes,Sam Mendes,False
+2009,James Cameron,Avatar,True
+2009,Kathryn Bigelow,Kathryn Bigelow,False
+2009,Quentin Tarantino,Quentin Tarantino,False
+2009,Clint Eastwood,Clint Eastwood,False
+2009,Jason Reitman,Jason Reitman,False
+2010,David Fincher,The Social Network,True
+2010,Darren Aronofsky,Darren Aronofsky,False
+2010,David O. Russell,David O. Russell,False
+2010,Christopher Nolan,Christopher Nolan,False
+2010,Tom Hooper,Tom Hooper,False
+2011,Martin Scorsese,Hugo,True
+2011,Michel Hazanavicius,Michel Hazanavicius,False
+2011,Alexander Payne,Alexander Payne,False
+2011,George Clooney,George Clooney,False
+2011,Woody Allen,Woody Allen,False
+2012,Ben Affleck,Argo,True
+2012,Quentin Tarantino,Quentin Tarantino,False
+2012,Ang Lee,Ang Lee,False
+2012,Steven Spielberg,Steven Spielberg,False
+2012,Kathryn Bigelow,Kathryn Bigelow,False
+2013,Alfonso Cuarón,Gravity,True
+2013,Steve McQueen,Steve McQueen,False
+2013,David O. Russell,David O. Russell,False
+2013,Paul Greengrass,Paul Greengrass,False
+2013,Alexander Payne,Alexander Payne,False
+2014,Richard Linklater,Boyhood,True
+2014,Alejandro González Iñárritu,Alejandro González Iñárritu,False
+2014,David Fincher,David Fincher,False
+2014,Wes Anderson,Wes Anderson,False
+2014,Ava DuVernay,Ava DuVernay,False
+2015,Alejandro González Iñárritu,The Revenant,True
+2015,Todd Haynes,Todd Haynes,False
+2015,George Miller,George Miller,False
+2015,Ridley Scott,Ridley Scott,False
+2015,Tom McCarthy,Tom McCarthy,False
+2016,Damien Chazelle,La La Land,True
+2016,Mel Gibson,Mel Gibson,False
+2016,Barry Jenkins,Barry Jenkins,False
+2016,Kenneth Lonergan,Kenneth Lonergan,False
+2016,Tom Ford,Tom Ford,False
+2017,Guillermo del Toro,The Shape of Water,True
+2017,Ridley Scott,Ridley Scott,False
+2017,Christopher Nolan,Christopher Nolan,False
+2017,Steven Spielberg,Steven Spielberg,False
+2017,Martin McDonagh,Martin McDonagh,False
+2018,Alfonso Cuarón,Roma,True
+2018,Spike Lee,Spike Lee,False
+2018,Peter Farrelly,Peter Farrelly,False
+2018,Bradley Cooper,Bradley Cooper,False
+2018,Adam McKay,Adam McKay,False
+2019,Sam Mendes,1917,True
+2019,Martin Scorsese,Martin Scorsese,False
+2019,Todd Phillips,Todd Phillips,False
+2019,Quentin Tarantino,Quentin Tarantino,False
+2019,Bong Joon-ho,Bong Joon-ho,False
+2020,Chloé Zhao,Nomadland,True
+2020,David Fincher,David Fincher,False
+2020,Regina King,Regina King,False
+2020,Emerald Fennell,Emerald Fennell,False
+2020,Aaron Sorkin,Aaron Sorkin,False
+2021,Jane Campion,The Power of the Dog,True
+2021,Kenneth Branagh,Kenneth Branagh,False
+2021,Denis Villeneuve,Denis Villeneuve,False
+2021,Maggie Gyllenhaal,Maggie Gyllenhaal,False
+2021,Steven Spielberg,Steven Spielberg,False

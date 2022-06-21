@@ -14,7 +14,7 @@ class ImdbSpider(scrapy.Spider):
 
     def __init__(self):
         super().__init__()
-        with open('/Users/yaya/Desktop/PT_Nghiep_Vu_TM/crawler/config/imdb_genre.txt', 'r') as file:
+        with open(os.getcwd() + '/config/imdb_genre.txt', 'r') as file:
             categories = file.readlines()
             base_url = "https://www.imdb.com/search/title/?genres="
             self.start_urls = [(base_url + category.strip())
